@@ -1,5 +1,5 @@
 export  class ConfigUtil{
-  static readonly SERVER="http://192.168.0.11:3000"//10.136.216.251
+  static readonly SERVER="http://xxxxxxx:3000"//在这里修改成您的服务器的IP地址
   //static readonly SERVERURL="http://10.136.180.122:3000/uploads/"
   static readonly HTTP_CODE_200=200  // 成功
   /**
