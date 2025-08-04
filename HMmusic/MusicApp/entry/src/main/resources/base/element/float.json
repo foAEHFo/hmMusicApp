@@ -1,0 +1,20 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "top_bar_height",
+      "value": "50vp"
+    },
+    {
+      "name": "bottom_bar_height",
+      "value": "50vp"
+    },
+    {
+      "name": "page_padding",
+      "value": "12vp"
+    }
+  ]
+}

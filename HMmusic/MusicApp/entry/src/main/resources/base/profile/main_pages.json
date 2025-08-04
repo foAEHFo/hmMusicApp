@@ -1,0 +1,19 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Initial",
+    "pages/Login",
+    "pages/MainNavigation",
+    "pages/Recommend",
+    "pages/PersonalPlayList",
+    "pages/Personal",
+    "pages/SearchQuery",
+    "pages/SearchResults",
+    "pages/Singer",
+    "pages/User",
+    "pages/Album",
+    "pages/SongPlay",
+    "pages/Test",
+    "pages/microphone/index"
+  ]
+}

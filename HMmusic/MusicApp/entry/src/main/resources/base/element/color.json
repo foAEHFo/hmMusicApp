@@ -1,0 +1,28 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "backgroundWhite",
+      "value": "#f3f7fa"
+    },
+    {
+      "name": "softBlack",
+      "value": "#0e0f23"
+    },
+    {
+      "name": "noteColor",
+      "value": "#81838f"
+    },
+    {
+      "name": "lightRed",
+      "value": "#fe3a3b"
+    },
+    {
+      "name": "themeColor",
+      "value": "#3985f2"
+    }
+  ]
+}
